@@ -1,0 +1,372 @@
+{
+  "BlackBone": [
+    "HackingTeam",
+    "Lolbot",
+    "OilRig",
+    "APT1",
+    "Emissary Panda",
+    "Wajam",
+    "CHAINSHOT",
+    "Cyberbit"
+  ],
+  "Mapping-Injection": [],
+  "HookPasswordChange": [
+    "Micropsia",
+    "ATM Dispenser",
+    "OceanLotus"
+  ],
+  "coilgun": [],
+  "injectAllTheThings": [
+    "LeafMiner",
+    "PyXie",
+    "Slingshot",
+    "Petya",
+    "Lazarus",
+    "LatentBot",
+    "Carbanak",
+    "Mischa",
+    "GandCrab",
+    "TrickBot",
+    "Cobalt"
+  ],
+  "MemoryModule": [
+    "AlmaLocker",
+    "MegaCortex",
+    "Oztratz",
+    "Princess Locker",
+    "DNSBirthday",
+    "Lazarus",
+    "Fireball",
+    "KuaiZip",
+    "Turla",
+    "Fancy Bear",
+    "Suckfly",
+    "OrangeWorm Ransomware"
+  ],
+  "ReflectiveDLLInjection": [
+    "LeafMiner",
+    "LockPOS",
+    "Carbanak",
+    "ShaktiTrojan",
+    "Java NotDharma",
+    "Mischa",
+    "Petya",
+    "GandCrab",
+    "TA505",
+    "TrickBot",
+    "CobaltStrike",
+    "MM Core",
+    "LatentBot",
+    "Tick",
+    "Joao",
+    "Backboot",
+    "Ramnit",
+    "Pony",
+    "Ammy Admin",
+    "Copy Kittens",
+    "DNSBirthday",
+    "Rokku Ransomware",
+    "Chimera Ransomware",
+    "Patchwork",
+    "DarkHotel",
+    "Ke3chang",
+    "HackingTeam"
+  ],
+  "InjectProc": [],
+  "RottenPotatoEXE": [],
+  "process-inject": [
+    "Vicious Panda",
+    "Mischa",
+    "LeafMiner",
+    "TA505",
+    "Joao",
+    "GandCrab",
+    "Carbanak",
+    "Petya",
+    "TrickBot",
+    "PyXie",
+    "Cobalt",
+    "Ramnit"
+  ],
+  "SharpSploit": [
+    "APT10"
+  ],
+  "TikiTorch": [],
+  "DeviceGuardBypasses": [],
+  "LethalHTA": [],
+  "SharpExec": [],
+  "RottenPotato": [
+    "Australia Parliament Hack",
+    "LeafMiner"
+  ],
+  "JuicyPotato": [
+    "Fox Kitten",
+    "MyKings",
+    "DarkHotel"
+  ],
+  "Tokenvator": [],
+  "Lilith": [
+    "Operation Dark Pyongyang",
+    "Tick"
+  ],
+  "SharpCOM": [],
+  "ProcessInjection": [],
+  "AsyncRAT-C#": [
+    "Bepush",
+    "CONFUCIUS",
+    "Slimhem",
+    "Hakbit Ransomware",
+    "Siplog",
+    "Bokytuda",
+    "Subti",
+    "Hoetou"
+  ],
+  "UACME": [
+    "7ev3n",
+    "Pitou",
+    "TrickBot",
+    "Sigma Ransomware",
+    "Cozy Bear",
+    "Novter",
+    "Carberp",
+    "AVE_MARIA",
+    "Charming Kitten",
+    "GandCrab",
+    "DarkHotel",
+    "Patchwork",
+    "OceanLotus"
+  ],
+  "Trebuchet": [
+    "Australia Parliament Hack"
+  ],
+  ".NetPELoader": [
+    "Lazarus"
+  ],
+  "Custom Mimikatz": [
+    "Winnti",
+    "Black Energy",
+    "Turla",
+    "Fancy Bear",
+    "Operation Skeleton Key",
+    "APT10",
+    "Chafer",
+    "TA505",
+    "Operation Cleaver",
+    "Carbanak",
+    "LeafMiner",
+    "OilRig",
+    "Ke3chang",
+    "TrickBot",
+    "Bad Rabbit Ransomware",
+    "DRBControl",
+    "CryptoUnknown",
+    "Cobalt Kitty"
+  ],
+  "Custom Meterpreter": [
+    "DarkHydrus",
+    "Refined Kitten",
+    "Turla",
+    "Winnti"
+  ],
+  "passcat": [
+    "Vidar",
+    "Socelars",
+    "TrickBot",
+    "Babar",
+    "Legion Loader"
+  ],
+  "SharpWeb": [],
+  "csharp-uhwid": [
+    "APT-C-27",
+    "CryptoJoker",
+    "CryptoNar",
+    "JigsawLocker",
+    "Lockify",
+    "Rastakhiz Ransomware"
+  ],
+  "minhook": [
+    "Buhtrap",
+    "Panda Banker",
+    "NukeBot",
+    "Terdot",
+    "Ursu"
+  ],
+  "myLittleRansomware": [
+    "RekenSom Ransomware",
+    "Cute",
+    "LockOn",
+    "Honor",
+    "PyteHole"
+  ],
+  "mhook": [
+    "MINEBRIDGE"
+  ],
+  "DetoursNT": [],
+  "EasyHook": [
+    "DNSBirthday",
+    "Dharma"
+  ],
+  "RemCom": [
+    "BlueTermite",
+    "Chafer",
+    "APT10",
+    "Fancy Bear"
+  ],
+  "BypassUAC/Win7Elevate": [
+    "Winnti",
+    "Ploutus",
+    "Kimsuky",
+    "Lazarus",
+    "NetTraveler"
+  ],
+  "K8-BypassUAC": [
+    "DRBControl"
+  ],
+  "PSInject": [
+    "Turla"
+  ],
+  "SuperDelete": [
+    "Refined Kitten"
+  ],
+  "QuasarRAT": [
+    "Habbo",
+    "Ploutus",
+    "APT10",
+    "Subti",
+    "CONFUCIUS",
+    "Gaza Cybergang",
+    "Taily",
+    "VERMIN Campaign",
+    "Refined Kitten",
+    "Tinclex",
+    "JigsawLocker",
+    "SpyGate",
+    "Patchwork"
+  ],
+  "HTran": [
+    "Winnti",
+    "KeyBoy",
+    "Gothic Panda",
+    "APT10",
+    "DragonOK",
+    "APT1",
+    "OilRig",
+    "Emissary Panda",
+    "Lazarus",
+    "Tick"
+  ],
+  "QuarksPwDump": [
+    "DRBControl",
+    "Lazarus",
+    "Ke3chang"
+  ],
+  "ImprovedReflectiveDLLInjection": [
+    "Winnti",
+    "Matrix Panda",
+    "Karius",
+    "Lazarus",
+    "TrickBot",
+    "Petya",
+    "Vicious Panda",
+    "Ramnit",
+    "DarkHotel"
+  ],
+  "fgdump": [
+    "Icefog",
+    "Volatile Cedar",
+    "NetTraveler"
+  ],
+  "WinEggDrop PortScanner": [
+    "Luoxk",
+    "Winnti",
+    "ZombieBoy"
+  ],
+  "rootkit.com/cardmagic": [
+    "APT1",
+    "Shylock",
+    "Scieron"
+  ],
+  "SimplePELoader": [
+    "Carbanak",
+    "Leviathan"
+  ],
+  "ProxyDll": [
+    "Maze Ransomware"
+  ],
+  "Dumpert": [
+    "Operation Skeleton Key",
+    "Emissary Panda"
+  ],
+  "RunPE-In-Memory": [
+    "TrickBot"
+  ],
+  "Sharpire": [
+    "Evrial"
+  ],
+  "Virtual Machines Detection Enhaced": [
+    "TrickBot"
+  ],
+  "rewolf-wow64ext": [
+    "Fancy Bear",
+    "LatentBot",
+    "Black Energy"
+  ],
+  "Invoke-Vnc": [
+    "TrickBot",
+    "Winnti",
+    "Matrix Banker",
+    "DarkHotel",
+    "Carbanak"
+  ],
+  "Covenant": [
+    "Refined Kitten"
+  ],
+  "SharpSuite": [],
+  "Process-Hollowing": [],
+  "AggressorScripts": [],
+  "TpmInitUACBypass": [],
+  "tenable-UACBypass": [],
+  "DccwBypassUAC": [],
+  "ALPC-BypassUAC": [],
+  "WheresMyImplant": [],
+  "SharpHound": [],
+  "NetRipper": [
+    "Turla"
+  ],
+  "Pinjectra": [],
+  "Watson": [],
+  "CookieMonster": [],
+  "SeatBelt": [],
+  "Rubeus": [],
+  "AmsiScanBufferBypass": [
+    "Forkbombo"
+  ],
+  "PowerShdll": [],
+  "TinyMet": [
+    "Carbanak",
+    "TA505"
+  ],
+  "ruler": [
+    "Refined Kitten",
+    "OilRig"
+  ],
+  "TitanHide": [
+    "CHAINSHOT"
+  ],
+  "InfinityRAT": [
+    "Harvbot",
+    "Reomot",
+    "Ponoeb",
+    "Aataki"
+  ],
+  "BypassUAC": [
+    "ataware",
+    "BrazilianBankingTrojan"
+  ],
+  "OxidDumper": [
+    "OceanLotus"
+  ],
+  "chimera_pe": [
+    "Bolik"
+  ]
+}
