@@ -111,7 +111,7 @@ private rule id_10
 rule quarkspwdump
 {
 	meta:
-		author = "Paul"
+		author = "Intezer Labs"
 		date = "June 2020"
 	condition:
 		(id_1 or id_2 or id_3 or id_4 or id_5 or id_6 or id_7 or id_8 or id_9 or id_10)

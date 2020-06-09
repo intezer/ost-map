@@ -60,7 +60,7 @@ private rule id_5
 rule vncdll
 {
 	meta:
-		author = "Paul"
+		author = "Intezer Labs"
 		date = "June 2020"
 	condition:
 		(id_1 or id_2 or id_3 or id_4 or id_5)

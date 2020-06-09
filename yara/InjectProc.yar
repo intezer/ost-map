@@ -325,7 +325,7 @@ private rule id_29
 rule InjectProc
 {
 	meta:
-		author = "Paul"
+		author = "Intezer Labs"
 		date = "June 2020"
 	condition:
 		(id_1 or id_2 or id_3 or id_4 or id_5 or id_6 or id_7 or id_8 or id_9 or id_10 or id_11 or id_12 or id_13 or id_14 or id_15 or id_16 or id_17 or id_18 or id_19 or id_20 or id_21 or id_22 or id_23 or id_24 or id_25 or id_26 or id_27 or id_28 or id_29)

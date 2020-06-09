@@ -1049,7 +1049,7 @@ private rule id_90
 rule MemoryModule
 {
 	meta:
-		author = "Paul"
+		author = "Intezer Labs"
 		date = "June 2020"
 	condition:
 		(id_1 or id_2 or id_3 or id_4 or id_5 or id_6 or id_7 or id_8 or id_9 or id_10 or id_11 or id_12 or id_13 or id_14 or id_15 or id_16 or id_17 or id_18 or id_19 or id_20 or id_21 or id_22 or id_23 or id_24 or id_25 or id_26 or id_27 or id_28 or id_29 or id_30 or id_31 or id_32 or id_33 or id_34 or id_35 or id_36 or id_37 or id_38 or id_39 or id_40 or id_41 or id_42 or id_43 or id_44 or id_45 or id_46 or id_47 or id_48 or id_49 or id_50 or id_51 or id_52 or id_53 or id_54 or id_55 or id_56 or id_57 or id_58 or id_59 or id_60 or id_61 or id_62 or id_63 or id_64 or id_65 or id_66 or id_67 or id_68 or id_69 or id_70 or id_71 or id_72 or id_73 or id_74 or id_75 or id_76 or id_77 or id_78 or id_79 or id_80 or id_81 or id_82 or id_83 or id_84 or id_85 or id_86 or id_87 or id_88 or id_89 or id_90)
