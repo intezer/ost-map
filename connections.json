@@ -70,7 +70,8 @@
     "Patchwork",
     "DarkHotel",
     "Ke3chang",
-    "HackingTeam"
+    "HackingTeam",
+    "Magniber Ransomware"
   ],
   "InjectProc": [],
   "RottenPotatoEXE": [],
@@ -96,13 +97,15 @@
   "LethalHTA": [],
   "SharpExec": [],
   "RottenPotato": [
-    "Australia Parliament Hack",
-    "LeafMiner"
+    "LeafMiner",
+    "Australia Parliament Hack"
   ],
   "JuicyPotato": [
+    "TEMP.Demon",
+    "Blue Mockingbird",
     "Fox Kitten",
-    "MyKings",
-    "DarkHotel"
+    "DarkHotel",
+    "MyKings"
   ],
   "Tokenvator": [],
   "Lilith": [
@@ -122,19 +125,19 @@
     "Hoetou"
   ],
   "UACME": [
-    "7ev3n",
-    "Pitou",
     "TrickBot",
-    "Sigma Ransomware",
-    "Cozy Bear",
-    "Novter",
-    "Carberp",
-    "AVE_MARIA",
-    "Charming Kitten",
+    "Pitou",
     "GandCrab",
-    "DarkHotel",
+    "7ev3n",
+    "Charming Kitten",
+    "Novter",
+    "OceanLotus",
+    "AVE_MARIA",
     "Patchwork",
-    "OceanLotus"
+    "Winnti",
+    "Sigma Ransomware",
+    "DarkHotel",
+    "Carberp"
   ],
   "Trebuchet": [
     "Australia Parliament Hack"
@@ -143,30 +146,30 @@
     "Lazarus"
   ],
   "Custom Mimikatz": [
-    "Winnti",
-    "Black Energy",
-    "Turla",
-    "Fancy Bear",
-    "Operation Skeleton Key",
-    "APT10",
+    "TrickBot",
     "Chafer",
     "TA505",
-    "Operation Cleaver",
-    "Carbanak",
+    "APT10",
     "LeafMiner",
-    "OilRig",
-    "Ke3chang",
-    "TrickBot",
+    "Operation Cleaver",
+    "Turla",
+    "Carbanak",
     "Bad Rabbit Ransomware",
+    "OilRig",
     "DRBControl",
-    "CryptoUnknown",
-    "Cobalt Kitty"
+    "Winnti",
+    "Cobalt Kitty",
+    "Ke3chang",
+    "Black Energy",
+    "Operation Skeleton Key",
+    "Fancy Bear",
+    "CryptoUnknown"
   ],
   "Custom Meterpreter": [
-    "DarkHydrus",
-    "Refined Kitten",
     "Turla",
-    "Winnti"
+    "Refined Kitten",
+    "Winnti",
+    "DarkHydrus"
   ],
   "passcat": [
     "Vidar",
@@ -177,19 +180,20 @@
   ],
   "SharpWeb": [],
   "csharp-uhwid": [
-    "APT-C-27",
     "CryptoJoker",
-    "CryptoNar",
     "JigsawLocker",
-    "Lockify",
-    "Rastakhiz Ransomware"
+    "Rastakhiz Ransomware",
+    "CryptoNar",
+    "APT-C-27",
+    "Lockify"
   ],
   "minhook": [
     "Buhtrap",
     "Panda Banker",
     "NukeBot",
     "Terdot",
-    "Ursu"
+    "Ursu",
+    "Zloader"
   ],
   "myLittleRansomware": [
     "RekenSom Ransomware",
@@ -210,7 +214,8 @@
     "BlueTermite",
     "Chafer",
     "APT10",
-    "Fancy Bear"
+    "Fancy Bear",
+    "Sogou"
   ],
   "BypassUAC/Win7Elevate": [
     "Winnti",
@@ -229,31 +234,36 @@
     "Refined Kitten"
   ],
   "QuasarRAT": [
-    "Habbo",
-    "Ploutus",
-    "APT10",
-    "Subti",
-    "CONFUCIUS",
-    "Gaza Cybergang",
-    "Taily",
-    "VERMIN Campaign",
-    "Refined Kitten",
-    "Tinclex",
-    "JigsawLocker",
+    "PsiXBot",
     "SpyGate",
-    "Patchwork"
+    "Subaat",
+    "Subti",
+    "Ploutus",
+    "VERMIN Campaign",
+    "CONFUCIUS",
+    "Habbo",
+    "APT10",
+    "Taily",
+    "Tinclex",
+    "Patchwork",
+    "Necurs",
+    "JigsawLocker",
+    "Gaza Cybergang",
+    "Refined Kitten",
+    "ShellReset"
   ],
   "HTran": [
-    "Winnti",
-    "KeyBoy",
-    "Gothic Panda",
-    "APT10",
-    "DragonOK",
     "APT1",
-    "OilRig",
-    "Emissary Panda",
+    "Tick",
+    "Scarlet Mimic",
     "Lazarus",
-    "Tick"
+    "APT10",
+    "Gothic Panda",
+    "OilRig",
+    "Winnti",
+    "Emissary Panda",
+    "KeyBoy",
+    "DragonOK"
   ],
   "QuarksPwDump": [
     "DRBControl",
@@ -261,25 +271,26 @@
     "Ke3chang"
   ],
   "ImprovedReflectiveDLLInjection": [
-    "Winnti",
-    "Matrix Panda",
-    "Karius",
-    "Lazarus",
     "TrickBot",
-    "Petya",
     "Vicious Panda",
+    "Petya",
     "Ramnit",
-    "DarkHotel"
+    "Lazarus",
+    "Winnti",
+    "DarkHotel",
+    "Karius",
+    "Matrix Panda"
   ],
   "fgdump": [
-    "Icefog",
     "Volatile Cedar",
-    "NetTraveler"
+    "NetTraveler",
+    "Icefog"
   ],
   "WinEggDrop PortScanner": [
-    "Luoxk",
+    "ZombieBoy",
     "Winnti",
-    "ZombieBoy"
+    "MadoMiner",
+    "Luoxk"
   ],
   "rootkit.com/cardmagic": [
     "APT1",
@@ -287,15 +298,15 @@
     "Scieron"
   ],
   "SimplePELoader": [
-    "Carbanak",
-    "Leviathan"
+    "Leviathan",
+    "Carbanak"
   ],
   "ProxyDll": [
     "Maze Ransomware"
   ],
   "Dumpert": [
-    "Operation Skeleton Key",
-    "Emissary Panda"
+    "Emissary Panda",
+    "Operation Skeleton Key"
   ],
   "RunPE-In-Memory": [
     "TrickBot"
@@ -307,8 +318,9 @@
     "TrickBot"
   ],
   "rewolf-wow64ext": [
-    "Fancy Bear",
     "LatentBot",
+    "Fancy Bear",
+    "Ngay",
     "Black Energy"
   ],
   "Invoke-Vnc": [
@@ -329,12 +341,14 @@
   "DccwBypassUAC": [],
   "ALPC-BypassUAC": [],
   "WheresMyImplant": [],
-  "SharpHound": [],
+  "SharpHound": [
+    "PyXie",
+    "Operation Wocao"
+  ],
   "NetRipper": [
     "Turla"
   ],
   "Pinjectra": [],
-  "Watson": [],
   "CookieMonster": [],
   "SeatBelt": [],
   "Rubeus": [],
@@ -342,6 +356,7 @@
     "Forkbombo"
   ],
   "PowerShdll": [],
+  "SCShell": [],
   "TinyMet": [
     "Carbanak",
     "TA505"
@@ -352,6 +367,146 @@
   ],
   "TitanHide": [
     "CHAINSHOT"
+  ],
+  "PoshC2": [
+    "Refined Kitten",
+    "APT10",
+    "LYCEUM",
+    "FakeUpdates"
+  ],
+  "Koadic": [
+    "FakeUpdates",
+    "APT10",
+    "MuddyWater",
+    "Fancy Bear"
+  ],
+  "FruityC2": [
+    "MuddyWater"
+  ],
+  "Posh-SecMod": [
+    "Turla"
+  ],
+  "Empire": [
+    "FakeUpdates",
+    "Turla",
+    "FIN7",
+    "APT10",
+    "Ryuk",
+    "TrickBot",
+    "Frankenstein",
+    "INDRIK SPIDER",
+    "RobbinHood Ransomware",
+    "Refined Kitten",
+    "WIRTE",
+    "Aurora Panda",
+    "Cozy Bear",
+    "DarkHydrus",
+    "Novter",
+    "LYCEUM",
+    "FIN8",
+    "MuddyWater",
+    "Codoso",
+    "Copy Kittens",
+    "FIN10",
+    "GandCrab"
+  ],
+  "veil": [
+    "DarkHydrus"
+  ],
+  "pupy": [
+    "Refined Kitten",
+    "Rocket Kitten"
+  ],
+  "Trochilus": [
+    "APT10",
+    "DRBControl",
+    "Nightshade Panda",
+    "Hurricane Panda"
+  ],
+  "DKMC": [
+    "APT10",
+    "Gaza CyberGang"
+  ],
+  "PowerSploit": [
+    "BRONZE PRESIDENT",
+    "Fancy Bear",
+    "SamSam Ransomware",
+    "TrickBot",
+    "Purple Fox",
+    "Novter",
+    "NetWalker Ransomware",
+    "Nemty Ransomware",
+    "GhostMiner",
+    "Winnti",
+    "FIN7",
+    "Operation Wocao",
+    "Refined Kitten",
+    "MuddyWater",
+    "Patchwork",
+    "APT10",
+    "OceanLotus"
+  ],
+  "LaZagne": [
+    "Refined Kitten",
+    "Gothic Panda",
+    "MuddyWater",
+    "Qealler",
+    "Cloud Atlas",
+    "NetWalker Ransomware",
+    "LeafMiner",
+    "OilRig"
+  ],
+  "Apfell": [],
+  "FactionC2": [],
+  "SafetyKatz": [
+    "Chafer",
+    "TEMP.Demon"
+  ],
+  "BloodHound": [
+    "TEMP.Demon",
+    "Operation Skeleton Key"
+  ],
+  "reGeorg": [
+    "TEMP.Demon"
+  ],
+  "iBombShell": [],
+  "FudgeC2": [],
+  "Callidus": [],
+  "KeeThief": [
+    "Operation Wocao"
+  ],
+  "jexboss": [
+    "Operation Wocao",
+    "SamSam Ransomware"
+  ],
+  "chrome-passwords": [
+    "MuddyWater"
+  ],
+  "impacket": [
+    "APT10",
+    "Berserk Bear",
+    "Energetic Bear",
+    "SamSam Ransomware",
+    "Operation Wocao",
+    "Emissary Panda"
+  ],
+  "CHAOS": [
+    "Forkbombo"
+  ],
+  "DeathStar": [
+    "Forkbombo"
+  ],
+  "CrackMapExec": [
+    "Forkbombo",
+    "MuddyWater",
+    "Chafer",
+    "Energetic Bear"
+  ],
+  "WinPwnage": [
+    "PoetRAT"
+  ],
+  "FireMaster": [
+    "PowerPool"
   ],
   "InfinityRAT": [
     "Harvbot",
