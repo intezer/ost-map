@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "images/intezer.png",
+    "link": "https://www.intezer.com/",
+    "text": "Intezer"
+  },
+  "text": {
+    "more": "",
+    "intro": "A map tracking the use of libraries with offensive capabilities by threat actors.<br>For more information check the <a href=\"https://www.virusbulletin.com/conference/vb2020/abstracts/ost-map-mapping-malware-usage-open-source-offensive-security-tools\">VirusBulletin</a> page.<br><br>Add new connections on <a href=\"https://github.com/intezer/ost-map/\">GitHub</a>.",
+    "title": "OST Map"
+  },
+  "legend": {
+    "edgeLabel": "Connection",
+    "colorLabel": "Type",
+    "nodeLabel": "Tool"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
